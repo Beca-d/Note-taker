@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "Wednesday",
+      "text": "Proposal Meeting!",
+      "id": "1dgZAF"
+    },
+    {
+      "title": "Awesome Notes",
+      "text": "Write awesome notes here!",
+      "id": "00CSCt"
+    },
+    {
+      "title": "Don't Forget",
+      "text": "Grocery shopping",
+      "id": "iuCIYX"
+    }
+  ]
 }
