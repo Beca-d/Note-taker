@@ -1,7 +1,7 @@
 const router = require('express').Router();
 
-const dbRoutes = require('../apiRoutes/dbRoutes');
+const noteRoutes = require('../apiRoutes/noteRoutes');
 
-router.use(dbRoutes);
+router.use(noteRoutes);
 
 module.exports = router;
