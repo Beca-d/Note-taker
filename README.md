@@ -37,7 +37,7 @@ Use this project to deploy your own note taking app
 
 ## Deployed
 
-https://warm-river-97499.herokuapp.com/notes
+https://warm-river-97499.herokuapp.com
 
 ---
 
